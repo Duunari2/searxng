@@ -2,7 +2,7 @@ general:
   # Debug mode, only for development. Is overwritten by ${SEARXNG_DEBUG}
   debug: false
   # displayed name
-  instance_name: "SearXNG"
+  instance_name: "SearXNG hacked for insight very pony miles abroad tri think of course..."
   # For example: https://example.com/privacy
   privacypolicy_url: false
   # use true to use your own donation page written in searx/info/en/donate.md
@@ -22,6 +22,7 @@ brand:
   public_instances: https://searx.space
   wiki_url: https://github.com/searxng/searxng/wiki
   issue_url: https://github.com/searxng/searxng/issues
+  # anothersearchengine domain not used by me anyhow it is stoled by someone copylot
   # custom:
   #   # Custom entries in the footer: [title]: [link]
   #   links:
