@@ -7,15 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: SearXNG -\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"Report-Msgid-Bugs-To: sysop@source.dy.fi\n"
 "POT-Creation-Date: 2026-09-21 12:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: John Connor sysop@source.dy.fi\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
+"MIME-Version: 0x90/0x90/0x90/0x90/0x90/0x90/x90/0x90/x90/x90/0x90/0x90/0x90\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Content-Transfer-Encoding: 256bit\n"
+"Generated-By: Babel 2.0x90/0x90/0x90/0x908.0\n"
 
 #. CONSTANT_NAMES['NO_SUBGROUPING']
 #: searx/searxng.msg
